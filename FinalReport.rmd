@@ -120,4 +120,6 @@ The p-value = 0.00007686 which is smaller than 0.05 meaning we reject the null h
 Report on both Drug Users and Females.  Be sure to include the odds for both groups.
 -->
 
+Looking at the graphical descriptive results for drug users the box plot showed that 25% of them had the vaccine and 75% of them had the placebo suggesting that the vaccine is effective for drug users. In the inferential results for drug users, the p-value is 0.0000001242.  Taking a look at the graphical descriptive results for females the table shows that among the women who were infected with Aids almost 60% of them had the vaccine, suggesting that the vaccine made females more susceptible to contracting Aids. In the inferential results for females, the p-value = 0.00007686.
+Since both p-values are less than 0.05, we reject both null hypothesis. The vaccine is effective for drug users and females risk if contracting Aids.
  
